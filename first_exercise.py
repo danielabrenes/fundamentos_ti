@@ -1,0 +1,7 @@
+NUM1=0
+NUM2=0
+SUMA=0
+NUM1=int(input("DIGITE EL NUMERO 1:",))
+NUM2=int(input("DIGITE EL NUMERO 2:",))
+SUMA=NUM1+NUM2
+print("LA SUMA ES:",SUMA)
